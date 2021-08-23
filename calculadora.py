@@ -1,6 +1,9 @@
 import numpy as np
 
 
+def suma(a,b):
+    return (a+b)
+
 def pitagoras(a,b):
     c=np.sqrt(a**2+b**2)
     return c
