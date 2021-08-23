@@ -1,5 +1,9 @@
 import numpy as np
 
+
+def coseno(a):
+  return np.cos(a)
+
 def multiplica(a,b):
     """
     Entrega el producto de a y b
@@ -20,3 +24,4 @@ def divide(a,b):
 
 def tangente(a):
 	return np.tan(a)
+
