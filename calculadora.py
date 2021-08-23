@@ -1,5 +1,10 @@
 import numpy as np
 
+def multiplica(a,b):
+    """
+    Entrega el producto de a y b
+    """
+    return a*b
 
 def factorial(a):
     value = 1
